@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MojaLab is a hub for tutorials, guides, and examples on coding, AI, and system administration. It offers a learning platform where users can discover, learn, and share tech through articles, videos, and hands‑on projects. The site provides resources for developers and sysadmins, covering topics from programming basics to advanced AI integration, aiming to make technology accessible and collaborative.
+MojaLab is a hub for tutorials, guides, and examples on coding, AI, and system administration. It provides easy-to-follow tech learning resources, sharing knowledge through articles, videos, and community contributions, helping developers and sysadmins stay up-to-date with modern technologies and best practices.
 
-**Areas:** Company
+**Areas:** Company · Tutorials · AI · System Administration · Coding
 
 ## MojaLab on APIs.io
 
 Everything profiled for MojaLab is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mojalab-com/](https://apis.io/providers/mojalab-com/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [MojaLab API](https://apis.io/apis/mojalab-com/mojalab-api/) — MojaLab provides a learning platform but does not expose a public API.
 
 ### Published properties
 
@@ -91,18 +87,17 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://mojalab.com/)
-- [GitHub](https://github.com/mojalab)
 
 ## API Evangelist rating
 
-**Kin Score 6.4** — minimal · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 5.7** — minimal · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
 | Discoverability | 58.9 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
+| Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 10.6 |
 
